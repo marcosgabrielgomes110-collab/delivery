@@ -1,0 +1,6 @@
+python-pybase
+python-dotenv
+pyjwt
+fastapi
+uvicorn
+python-multipart
